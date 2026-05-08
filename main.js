@@ -113,34 +113,34 @@ function loadImage(){
     background2Image.src = "background2.jpg"
 
     background3Image = new Image();
-    background3Image.src = "image/background3.jpg"
+    background3Image.src = "background3.jpg"
 
     background4Image = new Image();
-    background4Image.src = "image/background4.jpg"
+    background4Image.src = "background4.jpg"
 
     background5Image = new Image();
-    background5Image.src = "image/background5.jpg"
+    background5Image.src = "background5.jpg"
 
     background6Image = new Image();
-    background6Image.src = "image/background6.jpg"
+    background6Image.src = "background6.jpg"
 
     background7Image = new Image();
-    background7Image.src = "image/background7.jpg"
+    background7Image.src = "background7.jpg"
 
     background8Image = new Image();
-    background8Image.src = "image/background8.jpg"
+    background8Image.src = "background8.jpg"
 
     background9Image = new Image();
-    background9Image.src = "image/background9.jpg"
+    background9Image.src = "background9.jpg"
 
     background10Image = new Image();
-    background10Image.src = "image/background10.jpg"
+    background10Image.src = "background10.jpg"
 
     end1Image = new Image();
-    end1Image.src = "image/end1.jpg"
+    end1Image.src = "end1.jpg"
 
     end2Image = new Image();
-    end2Image.src = "image/end2.jpg"
+    end2Image.src = "end2.jpg"
 
 }
 //ui에 이미지- (image, dx, dy, dWidth, dHeight)
