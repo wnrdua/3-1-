@@ -101,16 +101,16 @@ canvas.addEventListener("click",function(e){
 
 function loadImage(){
     startImage = new Image();
-    startImage.src = "image/start.jpg"
+    startImage.src = "start.jpg"
 
     start2Image = new Image();
-    start2Image.src = "image/start2.jpg"
+    start2Image.src = "start2.jpg"
 
     background1Image = new Image();
-    background1Image.src = "image/background1.jpg"
+    background1Image.src = "background1.jpg"
 
     background2Image = new Image();
-    background2Image.src = "image/background2.jpg"
+    background2Image.src = "background2.jpg"
 
     background3Image = new Image();
     background3Image.src = "image/background3.jpg"
