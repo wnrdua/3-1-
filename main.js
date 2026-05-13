@@ -42,7 +42,7 @@ let buttons = {
         {x:200, y:200, w:300, h:300, next:"background5"}
     ],
     background5: [
-        {x:100, y:250, w:1500, h:100, next:"background6"}                                          
+        {x:100, y:230, w:1500, h:100, next:"background6"}                                          
     ],
     background6: [
         {x:550, y:100, w:60, h:70, next:"background7"}
